@@ -1,2 +1,4 @@
 # hello-world
-its just a repository
+
+hello its jose 
+i have made some changes over here 
